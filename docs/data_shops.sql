@@ -2,12 +2,12 @@
 SQLyog Ultimate v11.11 (64 bit)
 MySQL - 5.5.5-10.1.25-MariaDB : Database - next_front_system
 *********************************************************************
-*/
 
 
 
 
-/*!40101 SET SQL_MODE=''*/;
+
+/*!40101 SET SQL_MODE=''*/;*/
 
 /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
