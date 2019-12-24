@@ -1,6 +1,6 @@
 /*
 SQLyog Ultimate v11.11 (64 bit)
-MySQL - 5.5.5-10.1.25-MariaDB : Database - next_front_system
+MySQL - 5.5.5-10.1.25-MariaDB : 
 *********************************************************************
 
 
